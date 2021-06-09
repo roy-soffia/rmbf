@@ -1,7 +1,7 @@
 #!/usr/bin/python2
 # coding=utf-8
 # code by ROY-ID
-# my facebook ( https://www.facebook.com/royjbfbold )
+# my facebook ( https://www.facebook.com/jbfbold )
 # recode recode recode kontol bapak Lo pecah
 import os
 try:
@@ -151,7 +151,7 @@ def moch_yayan():
     os.system('clear')
     print logo
     print ' [%s*%s] Author   : Roy Octa Firdaus'%(H,N)
-    print ' [%s*%s] Facebook : facebook.com/royjbfbold'%(H,N)
+    print ' [%s*%s] Facebook : facebook.com/jbfbold'%(H,N)
     print ' [%s*%s] Whatsapp : 081318306972'%(H,N)
     print ' %s[%s*%s]'%(N,O,N), 30 * '\x1b[1;96m-\x1b[0m'
     print ' %s[%s*%s] Nama FB : %s%s%s'%(N,O,N,K,nama,N)
@@ -540,7 +540,7 @@ def info_tools():
     print ' %s[%s#%s]'%(N,O,N), 52 * '\x1b[1;96m-\x1b[0m';time.sleep(0.07)
     print '\n %s[%s>%s] Author   : Roy Octa Firdaus'%(N,H,N);time.sleep(0.07)
     print '\n %s[%s>%s] Github   : https://github.com/ROY-ID'%(N,H,N);time.sleep(0.07)
-    print '\n %s[%s>%s] Facebook : https://www.facebook.com/royjbfbold'%(N,H,N);time.sleep(0.07)
+    print '\n %s[%s>%s] Facebook : https://www.facebook.com/jbfbold'%(N,H,N);time.sleep(0.07)
     print '\n %s[%s>%s] Instagram: https://www.instagram.com/'%(N,H,N);time.sleep(0.07)
     print '\n %s[%s>%s] Website  : https://www.royjbfbold.my.id'%(N,H,N);time.sleep(0.07)
     print '\n %s[%s>%s] Fanspage : https://www.facebook.com/infoappdangame'%(N,H,N);time.sleep(0.07)
@@ -657,7 +657,8 @@ class __crack__:
             try: os.mkdir('results')
             except: pass
             user_agent = random.choice(['Mozilla/5.0 (Linux; U; Android 4.1.2; de-de; GT-I8190 Build/JZO54K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30',
-             'Mozilla/5.0 (Linux; Android 5.1; A1601 Build/LMY47I) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.98 Mobile Safari/537.36',
+             'Mozilla/5.0 (Linux; Android 10; Mi 9T Pro Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/88.0.4324.181 Mobile Safari/537.36 [FBAN/EMA;FBLC/it_IT;FBAV/239.0.0.10.109;]',
+	     'Mozilla/5.0 (Linux; Android 5.1; A1601 Build/LMY47I) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.98 Mobile Safari/537.36',
              'Mozilla/5.0 (Linux; Android 6.0; MYA-L22 Build/HUAWEIMYA-L22) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.84 Mobile Safari/537.36',
              'Mozilla/5.0 (Linux; Android 7.0; SAMSUNG SM-G610M Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/7.4 Chrome/59.0.3071.125 Mobile Safari/537.36',
              'Mozilla/5.0 (Linux; Android 7.1; vivo 1716 Build/N2G47H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.98 Mobile Safari/537.36',
